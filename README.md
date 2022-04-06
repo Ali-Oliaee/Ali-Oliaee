@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ali80-sys)
 
+[My resume :)](https://github.io/Ali-Oliaee)
 
 - 🌱 Front-end developer (React)
 - 🤔 learning Web3.0 stuff
