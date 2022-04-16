@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Ali
 
-![](https://komarev.com/ghpvc/?username=ali80-sys)
+![](https://komarev.com/ghpvc/?username=Ali-Oliaee)
 
-[My resume :)](https://ali80-sys.github.io/Ali-Oliaee)
+[My resume :)](https://ali-oliaee.github.io/portfolio/)
 
 - 🌱 Front-end developer (React)
 - 🤔 learning Web3.0 stuff
