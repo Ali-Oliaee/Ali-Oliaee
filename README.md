@@ -9,7 +9,7 @@ just a poor developer
 * 🌍  I'm based in Iran, Mashad
 * 🖥️  See my portfolio at [here](http://ali-oliaee.github.io/portfolio/)
 * ✉️  You can contact me at [alioliaee31@gmail.com](mailto:alioliaee31@gmail.com)
-* 🧠  I'm learning javascript
+* 🧠  I'm learning blockchain
 
 <a href="https://www.github.com/ali-oliaee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ali-oliaee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
