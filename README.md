@@ -4,8 +4,6 @@ Hi 👋 My name is Ali
 Web developer
 -------------
 
-just a poor developer
-
 * 🌍  I'm based in Iran, Mashad
 * 🖥️  See my portfolio at [here](https://ali-oliaee.ir)
 * ✉️  You can contact me at [alioliaee31@gmail.com](mailto:alioliaee31@gmail.com)
