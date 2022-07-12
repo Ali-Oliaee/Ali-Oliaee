@@ -4,7 +4,7 @@ Hi 👋 My name is Ali
 Web developer
 -------------
 
-* 🌍  I'm based in Iran, Mashad
+* 🌍  I'm based in Mashad, Iran
 * 🖥️  See my portfolio at [here](https://ali-oliaee.ir)
 * ✉️  You can contact me at [alioliaee31@gmail.com](mailto:alioliaee31@gmail.com)
 * 🧠  I'm currently learning blockchain and web3 stuff
