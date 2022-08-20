@@ -7,7 +7,7 @@ Web developer
 * 🌍  I'm based in Mashad, Iran
 * 🖥️  See my portfolio at [here](https://ali-oliaee.ir)
 * ✉️  You can contact me at [alioliaee31@gmail.com](mailto:alioliaee31@gmail.com)
-* 🧠  I'm currently learning blockchain and etherjs
+* 🧠  I'm currently learning truffle and etherjs
 
 <a href="https://www.github.com/ali-oliaee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ali-oliaee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
