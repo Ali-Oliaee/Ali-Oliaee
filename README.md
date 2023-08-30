@@ -6,7 +6,7 @@
 <b> Welcome to my page! <br/> 
 I'm Ali, Frontend and Mobile developer from Mashhad, Iran.</b><br/><br/>
 <a href="https://www.linkedin.com/in/ali-oliaee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ali-oliaee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-7c31e3?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://www.instagram.com/ali._.oliaee/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+ <a href="https://www.instagram.com/rn-coder/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
  
 ## Check my website
 
