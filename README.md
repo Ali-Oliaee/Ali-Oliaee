@@ -36,11 +36,3 @@ I'm Ali, Frontend and Mobile developer from Mashhad, Iran.</b><br/><br/>
   </div>
   <br>
 </p>
-
----------
-
-<div align="center">
-<a href="https://coffeebede.ir/buycoffee/ali-oliaee">
-<img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200"/>
-</a>
-</div>
