@@ -16,11 +16,11 @@ I'm Ali, Frontend and Mobile developer from Mashhad, Iran.</b><br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=&multiline=true&width=550&height=28&lines=if+you+like%2C+take+a+look.)](https://git.io/typing-svg)
 
-<p>it's down for some improvements, thanks for your support :)</p>
+<p>it's unavailable for some improvements, thanks for your support :)</p>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>My Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,redux,typescript,discord,bash,firebase,threejs,postman,jest,materialui,graphql,sass,bootstrap,styledcomponents,figma,vite,linux,git,gitlab,discord,vscode,androidstudio,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,redux,typescript,discord,bash,firebase,postman,jest,materialui,graphql,sass,bootstrap,styledcomponents,figma,vite,linux,git,gitlab,discord,vscode,androidstudio,flutter,kotlin)](https://skillicons.dev)
 
 ## Open source projects
 
