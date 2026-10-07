@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<a href="https://www.linkedin.com/in/ali-oliaee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ali-oliaee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-7c31e3?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-
+<a href="https://www.linkedin.com/in/ali-oliaee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
 <a href="https://discord.com/users/1017718475323613224.png" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-3/1017718475323613224.png"/></a>
 
@@ -14,7 +13,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>My Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,redux,typescript,gradle,discord,bash,firebase,postman,jest,materialui,graphql,sass,bootstrap,styledcomponents,figma,vite,linux,git,gitlab,vscode,androidstudio,flutter,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,redux,typescript,gradle,discord,bash,firebase,postman,jest,materialui,graphql,sass,bootstrap,styledcomponents,figma,vite,linux,git,gitlab,vscode,androidstudio,flutter,kotlin,nestjs,redis,postgresql,docker,nextjs,spotify,yarn,pnpm,githubactions)](https://skillicons.dev)
 
 ## Open source projects
 
