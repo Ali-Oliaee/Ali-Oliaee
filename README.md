@@ -13,7 +13,7 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>My Current Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,redux,typescript,gradle,discord,bash,firebase,postman,jest,materialui,graphql,sass,bootstrap,styledcomponents,figma,vite,linux,git,gitlab,vscode,androidstudio,flutter,kotlin,nestjs,redis,postgresql,docker,nextjs,spotify,yarn,pnpm,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,materialui,sass,bootstrap,styledcomponents,figma,vite,redux,typescript,react,nextjs,npm,yarn,pnpm,githubactions,discord,bash,firebase,gradle,postman,jest,graphql,linux,git,gitlab,vscode,androidstudio,flutter,kotlin,nestjs,redis,postgresql,docker,spotify)](https://skillicons.dev)
 
 ## Open source projects
 
