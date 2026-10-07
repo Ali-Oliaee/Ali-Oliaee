@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/ali-oliaee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-29146b?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ali-oliaee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-7c31e3?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://www.instagram.com/rn-coder/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instargam-e33811?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+
  
 <a href="https://discord.com/users/1017718475323613224.png" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-3/1017718475323613224.png"/></a>
 
